@@ -3,7 +3,7 @@
 
 
 
-![问题描述](/Users/fanyi/Pictures/ScreenCapture/Screen Shot 2017-11-20 at 22.36.30.png)
+![Screen Shot 2017-11-20 at 22.36.30](/Users/fanyi/GitLog/Blog/LanQiao/picture/Screen Shot 2017-11-20 at 22.36.30.png)
 
 
 
